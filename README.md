@@ -1,12 +1,12 @@
 # Pokeball
 
-![pokeball](https://github.com/norhythm/pokeball/pokeball.jpg)
+![pokeball](https://raw.githubusercontent.com/norhythm/pokeball/master/pokeball.jpg)
 
 # Use case
 
 for Sticker, for PokeStop, for Marketing and more!
 
-![pokeball](https://github.com/norhythm/pokeball/sample.jpg)
+![exmaple](https://raw.githubusercontent.com/norhythm/pokeball/master/example.jpg)
 
 ---
 
