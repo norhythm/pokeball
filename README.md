@@ -1,6 +1,6 @@
 # Pokeball
 
-![pokeball](https://raw.githubusercontent.com/norhythm/pokeball/master/pokeball.jpg)
+![pokeball](https://raw.githubusercontent.com/norhythm/pokeball/master/pokeball.png)
 
 # Use case
 
